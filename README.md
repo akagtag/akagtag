@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akagtag
 - 👀 I’m interested in learning new things!!
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on new projects.
+- 👾 I’m looking to collaborate on new projects.
 - 📫 How to reach me akshataga20@gmail.com
 
 <!---
